@@ -17,6 +17,7 @@ public class EventDetailsFragment extends Fragment {
 
     public EventDetailsFragment() {
         // Required empty public constructor
+        //Marou
     }
 
 
