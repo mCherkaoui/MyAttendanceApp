@@ -13,6 +13,9 @@ import mdc.myattendanceapp.R;
 
 public class MainActivity extends AppCompatActivity {
     private Toolbar mToolbar;
+    public String HEADER_NAME = "DARIF";
+    public String HEADER_EMAIL = "darif_marouane@hotmail.com";
+    public int HEADER_IMAGE = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
